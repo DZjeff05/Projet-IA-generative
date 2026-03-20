@@ -1,0 +1,220 @@
+{
+  "competency_blocks": [
+    {
+      "block_id": 1,
+      "block_name": "Data Analysis",
+      "competencies": [
+        "data cleaning",
+        "data preprocessing",
+        "data visualization",
+        "statistics",
+        "exploratory data analysis",
+        "Python programming for data",
+        "pandas data manipulation",
+        "data quality assessment"
+      ]
+    },
+    {
+      "block_id": 2,
+      "block_name": "Machine Learning",
+      "competencies": [
+        "classification models",
+        "regression models",
+        "model evaluation",
+        "hyperparameter tuning",
+        "neural networks",
+        "feature engineering",
+        "cross validation",
+        "performance optimization"
+      ]
+    },
+    {
+      "block_id": 3,
+      "block_name": "Natural Language Processing",
+      "competencies": [
+        "tokenization",
+        "word embeddings",
+        "transformers",
+        "semantic analysis",
+        "named entity recognition",
+        "text classification",
+        "text preprocessing",
+        "language modeling"
+      ]
+    },
+    {
+      "block_id": 4,
+      "block_name": "Data Engineering",
+      "competencies": [
+        "ETL pipelines",
+        "data warehousing",
+        "SQL querying",
+        "database optimization",
+        "Apache Spark processing",
+        "data ingestion",
+        "workflow orchestration",
+        "API integration"
+      ]
+    },
+    {
+      "block_id": 5,
+      "block_name": "Software Engineering",
+      "competencies": [
+        "version control with Git",
+        "unit testing",
+        "API design",
+        "object oriented programming",
+        "software architecture",
+        "debugging and troubleshooting",
+        "continuous integration",
+        "cloud deployment"
+      ]
+    },
+    {
+      "block_id": 6,
+      "block_name": "Deep Learning",
+      "competencies": [
+        "neural network training",
+        "convolutional neural networks",
+        "recurrent neural networks",
+        "optimization algorithms",
+        "GPU acceleration",
+        "autoencoders",
+        "transfer learning",
+        "model regularization"
+      ]
+    },
+    {
+      "block_id": 7,
+      "block_name": "Computer Vision",
+      "competencies": [
+        "image preprocessing",
+        "object detection",
+        "image classification",
+        "feature extraction",
+        "openCV programming",
+        "image segmentation",
+        "convolutional architectures",
+        "data augmentation"
+      ]
+    },
+    {
+      "block_id": 8,
+      "block_name": "Business Intelligence",
+      "competencies": [
+        "dashboard creation",
+        "KPI definition",
+        "report automation",
+        "power BI visualization",
+        "data storytelling",
+        "business metrics analysis",
+        "SQL analytics",
+        "decision support analysis"
+      ]
+    },
+    {
+      "block_id": 9,
+      "block_name": "Project Management",
+      "competencies": [
+        "agile methodology",
+        "scrum workflow",
+        "risk management",
+        "requirements analysis",
+        "team coordination",
+        "project planning",
+        "progress reporting",
+        "stakeholder management"
+      ]
+    },
+    {
+      "block_id": 10,
+      "block_name": "Cloud & DevOps",
+      "competencies": [
+        "docker containerization",
+        "cloud deployment",
+        "CI/CD pipelines",
+        "infrastructure monitoring",
+        "linux administration",
+        "kubernetes orchestration",
+        "environment automation",
+        "infrastructure as code"
+      ]
+    }
+  ],
+  "job_profiles": [
+    {
+      "job_id": "J01",
+      "job_title": "Data Analyst",
+      "required_blocks": [
+        "Data Analysis",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "job_id": "J02",
+      "job_title": "Machine Learning Engineer",
+      "required_blocks": [
+        "Machine Learning",
+        "Data Engineering",
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_id": "J03",
+      "job_title": "Data Scientist",
+      "required_blocks": [
+        "Data Analysis",
+        "Machine Learning",
+        "Deep Learning",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "job_id": "J04",
+      "job_title": "NLP Engineer",
+      "required_blocks": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Deep Learning",
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_id": "J05",
+      "job_title": "Data Engineer",
+      "required_blocks": [
+        "Data Engineering",
+        "Cloud & DevOps",
+        "Software Engineering"
+      ]
+    },
+    {
+      "job_id": "J06",
+      "job_title": "Computer Vision Engineer",
+      "required_blocks": [
+        "Computer Vision",
+        "Deep Learning",
+        "Machine Learning"
+      ]
+    },
+    {
+      "job_id": "J07",
+      "job_title": "BI Analyst",
+      "required_blocks": [
+        "Business Intelligence",
+        "Data Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "job_id": "J08",
+      "job_title": "MLOps Engineer",
+      "required_blocks": [
+        "Machine Learning",
+        "Cloud & DevOps",
+        "Software Engineering",
+        "Data Engineering"
+      ]
+    }
+  ]
+}
